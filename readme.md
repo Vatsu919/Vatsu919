@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a frontend developer with expertise in JavaScript frameworks. I have a strong aptitude for problem solving and an understanding of mathematical concepts. I am always eager to learn new skills and am open to collaborative opportunities. I am dedicated to developing innovative solutions and am committed to delivering high-quality work.
+I am a backend developer with expertise in developing highly scalable miscroservices. I have a strong aptitude for problem solving and an understanding of mathematical concepts. I am always eager to learn new skills and am open to collaborative opportunities. I am dedicated to developing innovative solutions and am committed to delivering high-quality work.
 
 
 ## 🌐 Socials:
